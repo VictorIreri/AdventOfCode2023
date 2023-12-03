@@ -1,6 +1,6 @@
 # AdventOfCode2023
 
-Welcome to the Advent of Code[^aoc] Kotlin project created by [VictorIreri][github] using the [Advent of Code Kotlin Template (with Amper)][template] delivered by JetBrains.
+Welcome to the Advent of Code[^aoc] Kotlin project created by [VictorIreri][github] using the [Advent of Code Kotlin Template - Amper][template] delivered by JetBrains.
 
 In this repository, Victor Ireri is about to provide solutions for the puzzles using the [Kotlin][kotlin] language.
 
