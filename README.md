@@ -1,8 +1,8 @@
 # AdventOfCode2023
 
-Welcome to the Advent of Code[^aoc] Kotlin project created by [victorireri][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
+Welcome to the Advent of Code[^aoc] Kotlin project created by [VictorIreri][github] using the [Advent of Code Kotlin Template (with Amper)][template] delivered by JetBrains.
 
-In this repository, victorireri is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
+In this repository, Victor Ireri is about to provide solutions for the puzzles using the [Kotlin][kotlin] language.
 
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
 
@@ -22,4 +22,4 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 [issues]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template/issues
 [kotlin]: https://kotlinlang.org
 [slack]: https://surveys.jetbrains.com/s3/kotlin-slack-sign-up
-[template]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template
+[template]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template-amper
